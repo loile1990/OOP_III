@@ -43,5 +43,5 @@ abstract class Shape{
 	public String toString(){
 		String text = "Shape[color=?,filled=?]";
 		return text;
-	};
+	}
 }
